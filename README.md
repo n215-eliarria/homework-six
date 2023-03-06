@@ -23,3 +23,4 @@ For this homework assignment, you will be making the about page from the Travel-
 * You can align the elements as you wish but they must look good and not touch the sides of the browser.
 
 ## Web 4 Url
+https://in-info-web4.informatics.iupui.edu/~eliarria/homework-six/tours.html
